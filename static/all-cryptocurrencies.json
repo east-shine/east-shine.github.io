@@ -1,0 +1,767 @@
+[
+  {
+    "symbol": "BTC",
+    "ko": "비트코인",
+    "en": "Bitcoin"
+  },
+  {
+    "symbol": "ETH",
+    "ko": "이더리움",
+    "en": "Ethereum"
+  },
+  {
+    "symbol": "LTC",
+    "ko": "라이트코인",
+    "en": "Litecoin"
+  },
+  {
+    "symbol": "XRP",
+    "ko": "리플",
+    "en": "Ripple"
+  },
+  {
+    "symbol": "ETC",
+    "ko": "이더리움클래식",
+    "en": "Ethereum Classic"
+  },
+  {
+    "symbol": "OMG",
+    "ko": "오미세고",
+    "en": "OmiseGo"
+  },
+  {
+    "symbol": "CVC",
+    "ko": "시빅",
+    "en": "Civic"
+  },
+  {
+    "symbol": "DGB",
+    "ko": "디지바이트",
+    "en": "DigiByte"
+  },
+  {
+    "symbol": "SC",
+    "ko": "시아코인",
+    "en": "Siacoin"
+  },
+  {
+    "symbol": "SNT",
+    "ko": "스테이터스네트워크토큰",
+    "en": "Status Network Token"
+  },
+  {
+    "symbol": "WAVES",
+    "ko": "웨이브",
+    "en": "Waves"
+  },
+  {
+    "symbol": "NMR",
+    "ko": "뉴메레르",
+    "en": "Numeraire"
+  },
+  {
+    "symbol": "XEM",
+    "ko": "넴",
+    "en": "NEM"
+  },
+  {
+    "symbol": "QTUM",
+    "ko": "퀀텀",
+    "en": "Qtum"
+  },
+  {
+    "symbol": "BAT",
+    "ko": "베이직어텐션토큰",
+    "en": "Basic Attention Token"
+  },
+  {
+    "symbol": "LSK",
+    "ko": "리스크",
+    "en": "Lisk"
+  },
+  {
+    "symbol": "STEEM",
+    "ko": "스팀",
+    "en": "Steem"
+  },
+  {
+    "symbol": "DOGE",
+    "ko": "도지코인",
+    "en": "Dogecoin"
+  },
+  {
+    "symbol": "BNT",
+    "ko": "뱅코르",
+    "en": "Bancor"
+  },
+  {
+    "symbol": "XLM",
+    "ko": "스텔라루멘",
+    "en": "Lumen"
+  },
+  {
+    "symbol": "ARDR",
+    "ko": "아더",
+    "en": "Ardor"
+  },
+  {
+    "symbol": "ARK",
+    "ko": "아크",
+    "en": "Ark"
+  },
+  {
+    "symbol": "STORJ",
+    "ko": "스토리지",
+    "en": "Storj"
+  },
+  {
+    "symbol": "GRS",
+    "ko": "그로스톨코인",
+    "en": "Groestlcoin"
+  },
+  {
+    "symbol": "REP",
+    "ko": "어거",
+    "en": "Augur"
+  },
+  {
+    "symbol": "RLC",
+    "ko": "아이젝",
+    "en": "iEx.ec"
+  },
+  {
+    "symbol": "NEO",
+    "ko": "네오",
+    "en": "NEO"
+  },
+  {
+    "symbol": "MTL",
+    "ko": "메탈",
+    "en": "Metal"
+  },
+  {
+    "symbol": "ADA",
+    "ko": "에이다",
+    "en": "Ada"
+  },
+  {
+    "symbol": "MANA",
+    "ko": "디센트럴랜드",
+    "en": "Decentraland"
+  },
+  {
+    "symbol": "SBD",
+    "ko": "스팀달러",
+    "en": "SteemDollars"
+  },
+  {
+    "symbol": "POWR",
+    "ko": "파워렛저",
+    "en": "Power ledger"
+  },
+  {
+    "symbol": "BTG",
+    "ko": "비트코인골드",
+    "en": "Bitcoin Gold"
+  },
+  {
+    "symbol": "DNT",
+    "ko": "디스트릭트0x",
+    "en": "district0x"
+  },
+  {
+    "symbol": "ZRX",
+    "ko": "제로엑스",
+    "en": "0x Protocol"
+  },
+  {
+    "symbol": "TRX",
+    "ko": "트론",
+    "en": "TRON"
+  },
+  {
+    "symbol": "TUSD",
+    "ko": "트루USD",
+    "en": "TrueUSD"
+  },
+  {
+    "symbol": "LRC",
+    "ko": "루프링",
+    "en": "Loopring"
+  },
+  {
+    "symbol": "ICX",
+    "ko": "아이콘",
+    "en": "Icon"
+  },
+  {
+    "symbol": "EOS",
+    "ko": "이오스",
+    "en": "EOS"
+  },
+  {
+    "symbol": "POLY",
+    "ko": "폴리매쓰",
+    "en": "Polymath"
+  },
+  {
+    "symbol": "ONT",
+    "ko": "온톨로지",
+    "en": "Ontology"
+  },
+  {
+    "symbol": "ZIL",
+    "ko": "질리카",
+    "en": "Zilliqa"
+  },
+  {
+    "symbol": "LOOM",
+    "ko": "룸네트워크",
+    "en": "Loom Network"
+  },
+  {
+    "symbol": "BCH",
+    "ko": "비트코인캐시",
+    "en": "Bitcoin Cash"
+  },
+  {
+    "symbol": "MFT",
+    "ko": "메인프레임",
+    "en": "Mainframe"
+  },
+  {
+    "symbol": "IOST",
+    "ko": "아이오에스티",
+    "en": "IOST"
+  },
+  {
+    "symbol": "RFR",
+    "ko": "리퍼리움",
+    "en": "Refereum"
+  },
+  {
+    "symbol": "IQ",
+    "ko": "에브리피디아",
+    "en": "Everipedia"
+  },
+  {
+    "symbol": "IOTA",
+    "ko": "아이오타",
+    "en": "IOTA"
+  },
+  {
+    "symbol": "RVN",
+    "ko": "레이븐코인",
+    "en": "Ravencoin"
+  },
+  {
+    "symbol": "GO",
+    "ko": "고체인",
+    "en": "GoChain"
+  },
+  {
+    "symbol": "UPP",
+    "ko": "센티넬프로토콜",
+    "en": "Sentinel Protocol"
+  },
+  {
+    "symbol": "ENJ",
+    "ko": "엔진코인",
+    "en": "Enjin"
+  },
+  {
+    "symbol": "ONG",
+    "ko": "온톨로지가스",
+    "en": "ONG"
+  },
+  {
+    "symbol": "GAS",
+    "ko": "가스",
+    "en": "GAS"
+  },
+  {
+    "symbol": "ELF",
+    "ko": "엘프",
+    "en": "aelf"
+  },
+  {
+    "symbol": "KNC",
+    "ko": "카이버네트워크",
+    "en": "Kyber Network"
+  },
+  {
+    "symbol": "PAX",
+    "ko": "팩소스스탠다드",
+    "en": "Paxos Standard"
+  },
+  {
+    "symbol": "MOC",
+    "ko": "모스코인",
+    "en": "Moss Coin"
+  },
+  {
+    "symbol": "BSV",
+    "ko": "비트코인에스브이",
+    "en": "Bitcoin SV"
+  },
+  {
+    "symbol": "THETA",
+    "ko": "쎄타토큰",
+    "en": "Theta Token"
+  },
+  {
+    "symbol": "DENT",
+    "ko": "덴트",
+    "en": "Dent"
+  },
+  {
+    "symbol": "QKC",
+    "ko": "쿼크체인",
+    "en": "QuarkChain"
+  },
+  {
+    "symbol": "BTT",
+    "ko": "비트토렌트",
+    "en": "BitTorrent"
+  },
+  {
+    "symbol": "IOTX",
+    "ko": "아이오텍스",
+    "en": "IoTeX"
+  },
+  {
+    "symbol": "SOLVE",
+    "ko": "솔브케어",
+    "en": "Solve.Care"
+  },
+  {
+    "symbol": "NKN",
+    "ko": "엔케이엔",
+    "en": "NKN"
+  },
+  {
+    "symbol": "META",
+    "ko": "메타디움",
+    "en": "Metadium"
+  },
+  {
+    "symbol": "ANKR",
+    "ko": "앵커",
+    "en": "Ankr"
+  },
+  {
+    "symbol": "CRO",
+    "ko": "크립토닷컴체인",
+    "en": "Crypto.com Chain"
+  },
+  {
+    "symbol": "TFUEL",
+    "ko": "쎄타퓨엘",
+    "en": "Theta Fuel"
+  },
+  {
+    "symbol": "ORBS",
+    "ko": "오브스",
+    "en": "Orbs"
+  },
+  {
+    "symbol": "AERGO",
+    "ko": "아르고",
+    "en": "Aergo"
+  },
+  {
+    "symbol": "ATOM",
+    "ko": "코스모스",
+    "en": "Cosmos"
+  },
+  {
+    "symbol": "TT",
+    "ko": "썬더토큰",
+    "en": "Thunder Token"
+  },
+  {
+    "symbol": "CRE",
+    "ko": "캐리프로토콜",
+    "en": "Carry Protocol"
+  },
+  {
+    "symbol": "STPT",
+    "ko": "에스티피",
+    "en": "Standard Tokenization Protocol"
+  },
+  {
+    "symbol": "MBL",
+    "ko": "무비블록",
+    "en": "MovieBloc"
+  },
+  {
+    "symbol": "LUNA",
+    "ko": "루나",
+    "en": "Luna"
+  },
+  {
+    "symbol": "DAI",
+    "ko": "다이",
+    "en": "Dai"
+  },
+  {
+    "symbol": "MKR",
+    "ko": "메이커",
+    "en": "Maker"
+  },
+  {
+    "symbol": "BORA",
+    "ko": "보라",
+    "en": "BORA"
+  },
+  {
+    "symbol": "WAXP",
+    "ko": "왁스",
+    "en": "WAX"
+  },
+  {
+    "symbol": "HBAR",
+    "ko": "헤데라해시그래프",
+    "en": "Hedera Hashgraph"
+  },
+  {
+    "symbol": "MED",
+    "ko": "메디블록",
+    "en": "MediBloc"
+  },
+  {
+    "symbol": "MLK",
+    "ko": "밀크",
+    "en": "MiL.k"
+  },
+  {
+    "symbol": "VET",
+    "ko": "비체인",
+    "en": "VeChain"
+  },
+  {
+    "symbol": "CHZ",
+    "ko": "칠리즈",
+    "en": "Chiliz"
+  },
+  {
+    "symbol": "FX",
+    "ko": "펑션엑스",
+    "en": "Function X"
+  },
+  {
+    "symbol": "OGN",
+    "ko": "오리진프로토콜",
+    "en": "Origin Protocol"
+  },
+  {
+    "symbol": "XTZ",
+    "ko": "테조스",
+    "en": "Tezos"
+  },
+  {
+    "symbol": "HIVE",
+    "ko": "하이브",
+    "en": "Hive"
+  },
+  {
+    "symbol": "HBD",
+    "ko": "하이브달러",
+    "en": "Hive Dollar"
+  },
+  {
+    "symbol": "OBSR",
+    "ko": "옵저버",
+    "en": "Observer"
+  },
+  {
+    "symbol": "DKA",
+    "ko": "디카르고",
+    "en": "dKargo"
+  },
+  {
+    "symbol": "STMX",
+    "ko": "스톰엑스",
+    "en": "StormX"
+  },
+  {
+    "symbol": "AHT",
+    "ko": "아하토큰",
+    "en": "AhaToken"
+  },
+  {
+    "symbol": "PCI",
+    "ko": "페이코인",
+    "en": "PayCoin"
+  },
+  {
+    "symbol": "LINK",
+    "ko": "체인링크",
+    "en": "Chainlink"
+  },
+  {
+    "symbol": "KAVA",
+    "ko": "카바",
+    "en": "Kava"
+  },
+  {
+    "symbol": "JST",
+    "ko": "저스트",
+    "en": "JUST"
+  },
+  {
+    "symbol": "CHR",
+    "ko": "크로미아",
+    "en": "Chromia"
+  },
+  {
+    "symbol": "DAD",
+    "ko": "다드",
+    "en": "DAD"
+  },
+  {
+    "symbol": "TON",
+    "ko": "톤",
+    "en": "TON"
+  },
+  {
+    "symbol": "CTSI",
+    "ko": "카르테시",
+    "en": "Cartesi"
+  },
+  {
+    "symbol": "DOT",
+    "ko": "폴카닷",
+    "en": "Polkadot"
+  },
+  {
+    "symbol": "COMP",
+    "ko": "컴파운드",
+    "en": "Compound"
+  },
+  {
+    "symbol": "SXP",
+    "ko": "스와이프",
+    "en": "Swipe"
+  },
+  {
+    "symbol": "HUNT",
+    "ko": "헌트",
+    "en": "HUNT"
+  },
+  {
+    "symbol": "ONIT",
+    "ko": "온버프",
+    "en": "ONBUFF"
+  },
+  {
+    "symbol": "CRV",
+    "ko": "커브",
+    "en": "Curve"
+  },
+  {
+    "symbol": "ALGO",
+    "ko": "알고랜드",
+    "en": "Algorand"
+  },
+  {
+    "symbol": "RSR",
+    "ko": "리저브라이트",
+    "en": "Reserve Rights"
+  },
+  {
+    "symbol": "OXT",
+    "ko": "오키드",
+    "en": "Orchid"
+  },
+  {
+    "symbol": "PLA",
+    "ko": "플레이댑",
+    "en": "PlayDapp"
+  },
+  {
+    "symbol": "MARO",
+    "ko": "마로",
+    "en": "Maro"
+  },
+  {
+    "symbol": "SAND",
+    "ko": "샌드박스",
+    "en": "The Sandbox"
+  },
+  {
+    "symbol": "SUN",
+    "ko": "썬",
+    "en": "SUN"
+  },
+  {
+    "symbol": "SRM",
+    "ko": "세럼",
+    "en": "Serum"
+  },
+  {
+    "symbol": "QTCON",
+    "ko": "퀴즈톡",
+    "en": "Quiztok"
+  },
+  {
+    "symbol": "MVL",
+    "ko": "엠블",
+    "en": "MVL"
+  },
+  {
+    "symbol": "GXC",
+    "ko": "지엑스체인",
+    "en": "GXChain"
+  },
+  {
+    "symbol": "AQT",
+    "ko": "알파쿼크",
+    "en": "Alpha Quark Token"
+  },
+  {
+    "symbol": "AXS",
+    "ko": "엑시인피니티",
+    "en": "Axie Infinity"
+  },
+  {
+    "symbol": "STRAX",
+    "ko": "스트라티스",
+    "en": "Stratis"
+  },
+  {
+    "symbol": "BCHA",
+    "ko": "비트코인캐시에이비씨",
+    "en": "Bitcoin Cash ABC"
+  },
+  {
+    "symbol": "GLM",
+    "ko": "골렘",
+    "en": "Golem"
+  },
+  {
+    "symbol": "FCT2",
+    "ko": "피르마체인",
+    "en": "FirmaChain"
+  },
+  {
+    "symbol": "SSX",
+    "ko": "썸씽",
+    "en": "SOMESING"
+  },
+  {
+    "symbol": "FIL",
+    "ko": "파일코인",
+    "en": "Filecoin"
+  },
+  {
+    "symbol": "UNI",
+    "ko": "유니스왑",
+    "en": "Uniswap"
+  },
+  {
+    "symbol": "BASIC",
+    "ko": "베이직",
+    "en": "Basic"
+  },
+  {
+    "symbol": "INJ",
+    "ko": "인젝티브프로토콜",
+    "en": "Injective Protocol"
+  },
+  {
+    "symbol": "PROM",
+    "ko": "프로메테우스",
+    "en": "Prometeus"
+  },
+  {
+    "symbol": "VAL",
+    "ko": "밸리디티",
+    "en": "Validity"
+  },
+  {
+    "symbol": "PSG",
+    "ko": "파리생제르맹",
+    "en": "Paris Saint-Germain Fan Token"
+  },
+  {
+    "symbol": "JUV",
+    "ko": "유벤투스",
+    "en": "Juventus Fan Token"
+  },
+  {
+    "symbol": "CBK",
+    "ko": "코박토큰",
+    "en": "Cobak Token"
+  },
+  {
+    "symbol": "FOR",
+    "ko": "포튜브",
+    "en": "ForTube"
+  },
+  {
+    "symbol": "BFC",
+    "ko": "바이프로스트",
+    "en": "Bifrost"
+  },
+  {
+    "symbol": "LINA",
+    "ko": "리니어파이낸스",
+    "en": "Linear"
+  },
+  {
+    "symbol": "HUM",
+    "ko": "휴먼스케이프",
+    "en": "Humanscape"
+  },
+  {
+    "symbol": "CELO",
+    "ko": "셀로",
+    "en": "Celo"
+  },
+  {
+    "symbol": "STX",
+    "ko": "스택스",
+    "en": "Stacks"
+  },
+  {
+    "symbol": "NEAR",
+    "ko": "니어프로토콜",
+    "en": "NEAR Protocol"
+  },
+  {
+    "symbol": "AUCTION",
+    "ko": "바운스토큰",
+    "en": "Bounce"
+  },
+  {
+    "symbol": "DAWN",
+    "ko": "던프로토콜",
+    "en": "Dawn Protocol"
+  },
+  {
+    "symbol": "FLOW",
+    "ko": "플로우",
+    "en": "Flow"
+  },
+  {
+    "symbol": "STRK",
+    "ko": "스트라이크",
+    "en": "Strike"
+  },
+  {
+    "symbol": "PUNDIX",
+    "ko": "펀디엑스",
+    "en": "Pundi X"
+  },
+  {
+    "symbol": "GRT",
+    "ko": "그래프",
+    "en": "The Graph"
+  },
+  {
+    "symbol": "SNX",
+    "ko": "신세틱스",
+    "en": "Synthetix"
+  }
+]
