@@ -1026,7 +1026,7 @@
   },
   {
     "symbol": "WBTC",
-    "ko": "랩드비트코인",
+    "ko": "랩트비트코인",
     "en": "Wrapped Bitcoin"
   },
   {
@@ -1058,5 +1058,190 @@
     "symbol": "ICP",
     "ko": "인터넷 컴퓨터",
     "en": "Internet Computer"
+  },
+  {
+    "symbol": "AE",
+    "ko": "애터니티",
+    "en": "Aeternity"
+  },
+  {
+    "symbol": "ANT",
+    "ko": "아라곤",
+    "en": "Aragon"
+  },
+  {
+    "symbol": "AST",
+    "ko": "에어스왑",
+    "en": "AirSwap"
+  },
+  {
+    "symbol": "BADGER",
+    "ko": "배저",
+    "en": "Badger DAO"
+  },
+  {
+    "symbol": "CFX",
+    "ko": "컨플럭스네트워크",
+    "en": "Conflux Network"
+  },
+  {
+    "symbol": "CHAT",
+    "ko": "챗코인",
+    "en": "ChatCoin"
+  },
+  {
+    "symbol": "CMT",
+    "ko": "사이버마일즈",
+    "en": "CyberMiles"
+  },
+  {
+    "symbol": "DCR",
+    "ko": "디크레드",
+    "en": "Decred"
+  },
+  {
+    "symbol": "EGLD",
+    "ko": "엘론드",
+    "en": "Elrond"
+  },
+  {
+    "symbol": "FLM",
+    "ko": "플라밍고",
+    "en": "Flamingo"
+  },
+  {
+    "symbol": "FTM",
+    "ko": "팬텀",
+    "en": "Fantom"
+  },
+  {
+    "symbol": "GTO",
+    "ko": "기프토",
+    "en": "Gifto"
+  },
+  {
+    "symbol": "HC",
+    "ko": "하이퍼캐시",
+    "en": "HyperCash"
+  },
+  {
+    "symbol": "MASK",
+    "ko": "마스크 네트워크",
+    "en": "Mask Network"
+  },
+  {
+    "symbol": "MCO",
+    "ko": "엠씨오",
+    "en": "MCO"
+  },
+  {
+    "symbol": "MDA",
+    "ko": "모에다로열티포인트",
+    "en": "Moeda Loyalty Points"
+  },
+  {
+    "symbol": "MDT",
+    "ko": "메져러블데이터토큰",
+    "en": "Measurable Data Token"
+  },
+  {
+    "symbol": "MITH",
+    "ko": "미스릴",
+    "en": "Mithril"
+  },
+  {
+    "symbol": "NANO",
+    "ko": "나노",
+    "en": "Nano"
+  },
+  {
+    "symbol": "NAS",
+    "ko": "네뷸러스",
+    "en": "Nebulas"
+  },
+  {
+    "symbol": "NULS",
+    "ko": "널스",
+    "en": "NULS"
+  },
+  {
+    "symbol": "OM",
+    "ko": "만트라다오",
+    "en": "MANTRA DAO"
+  },
+  {
+    "symbol": "PERP",
+    "ko": "퍼페츄얼 프로토콜",
+    "en": "Perpetual Protocol"
+  },
+  {
+    "symbol": "POLS",
+    "ko": "폴카스타터",
+    "en": "Polkastarter"
+  },
+  {
+    "symbol": "PPT",
+    "ko": "파퓰러스",
+    "en": "Populous"
+  },
+  {
+    "symbol": "SHIB",
+    "ko": "시바 이누",
+    "en": "SHIBA INU"
+  },
+  {
+    "symbol": "TCT",
+    "ko": "토큰클럽",
+    "en": "TokenClub"
+  },
+  {
+    "symbol": "TORN",
+    "ko": "토네이도 캐시",
+    "en": "Tornado Cash"
+  },
+  {
+    "symbol": "USDC",
+    "ko": "USD 코인",
+    "en": "USD Coin"
+  },
+  {
+    "symbol": "UTK",
+    "ko": "유트러스트",
+    "en": "Utrust"
+  },
+  {
+    "symbol": "VIB",
+    "ko": "바이버레이트",
+    "en": "Viberate"
+  },
+  {
+    "symbol": "WING",
+    "ko": "윙",
+    "en": "Wing"
+  },
+  {
+    "symbol": "WNXM",
+    "ko": "앤엑스엠",
+    "en": "Wrapped NXM"
+  },
+  {
+    "symbol": "XMR",
+    "ko": "모네로",
+    "en": "Monero"
+  },
+  {
+    "symbol": "YFII",
+    "ko": "DFI.Money",
+    "en": "DFI.Money"
+  },
+  {
+    "symbol": "YOYO",
+    "ko": "요요우",
+    "en": "YOYOW"
+  },
+  {
+    "symbol": "ZEN",
+    "ko": "호라이즌",
+    "en": "Horizen"
   }
 ]
