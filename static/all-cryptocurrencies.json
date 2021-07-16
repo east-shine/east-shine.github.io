@@ -272,7 +272,7 @@
   {
     "symbol": "ONG",
     "ko": "온톨로지가스",
-    "en": "ONG"
+    "en": "Ontology Gas"
   },
   {
     "symbol": "GAS",
@@ -588,12 +588,7 @@
     "symbol": "SAND",
     "ko": "샌드박스",
     "en": "The Sandbox"
-  },
-  {
-    "symbol": "SUN",
-    "ko": "썬",
-    "en": "SUN"
-  },
+  },  
   {
     "symbol": "SRM",
     "ko": "세럼",
@@ -763,5 +758,155 @@
     "symbol": "SNX",
     "ko": "신세틱스",
     "en": "Synthetix"
+  },
+  {
+    "symbol": "CTXC",
+    "ko": "코르텍스",
+    "en": "Cortex"
+  },
+  {
+    "symbol": "WTC",
+    "ko": "월튼체인",
+    "en": "Waltonchain"
+  },  
+  {
+    "symbol": "COS",
+    "ko": "콘텐토스",
+    "en": "Contentos"
+  },
+  {
+    "symbol": "ARPA",
+    "ko": "알파체인",
+    "en": "ARPA Chain"
+  },
+  {
+    "symbol": "CKB",
+    "ko": "너보스",
+    "en": "Nervos Network"
+  },
+  {
+    "symbol": "YFI",
+    "ko": "연파이낸스",
+    "en": "yearn.finance"
+  },
+  {
+    "symbol": "UMA",
+    "ko": "우마",
+    "en": "UMA"
+  },
+  {
+    "symbol": "AAVE",
+    "ko": "에이브",
+    "en": "Aave"
+  },
+  {
+    "symbol": "REN",
+    "ko": "렌",
+    "en": "Ren"
+  },
+  {
+    "symbol": "BAL",
+    "ko": "밸런서",
+    "en": "Balancer"
+  },
+  {
+    "symbol": "BEL",
+    "ko": "벨라프로토콜",
+    "en": "Bella Protocol"
+  },
+  {
+    "symbol": "MIR",
+    "ko": "미러 프로토콜",
+    "en": "Mirror Protocol"
+  },
+  {
+    "symbol": "NU",
+    "ko": "누사이퍼",
+    "en": "NuCypher"
+  },
+  {
+    "symbol": "LPT",
+    "ko": "라이브피어",
+    "en": "Livepeer"
+  },
+  {
+    "symbol": "SUSHI",
+    "ko": "스시스왑",
+    "en": "SushiSwap"
+  },
+  {
+    "symbol": "CELR",
+    "ko": "셀러네트워크",
+    "en": "Celer Network"
+  },
+  {
+    "symbol": "OCEAN",
+    "ko": "오션프로토콜",
+    "en": "Ocean Protocol"
+  },
+  {
+    "symbol": "ALICE",
+    "ko": "마이네이버앨리스",
+    "en": "MyNeighborAlice"
+  },
+  {
+    "symbol": "CAKE",
+    "ko": "팬케이크스왑",
+    "en": "PancakeSwap"
+  },  
+  {
+    "symbol": "XVS",
+    "ko": "비너스",
+    "en": "PancakeSwap"
+  },
+  {
+    "symbol": "MATIC",
+    "ko": "폴리곤",
+    "en": "Polygon"
+  },
+  {
+    "symbol": "BAKE",
+    "ko": "베이커리토큰",
+    "en": "BakeryToken"
+  },
+  {
+    "symbol": "BCD",
+    "ko": "비트코인 다이아몬드",
+    "en": "Bitcoin Diamond"
+  },
+  {
+    "symbol": "AION",
+    "ko": "아이온",
+    "en": "Aion"
+  },
+  {
+    "symbol": "KLAY",
+    "ko": "클레이튼",
+    "en": "Klaytn"
+  },
+  {
+    "symbol": "BURGER",
+    "ko": "버거스왑",
+    "en": "Burger Swap"
+  },
+  {
+    "symbol": "KSM",
+    "ko": "쿠사마",
+    "en": "Kusama"
+  },
+  {
+    "symbol": "CTK",
+    "ko": "써틱",
+    "en": "CertiK"
+  },
+  {
+    "symbol": "BNB",
+    "ko": "바이낸스코인",
+    "en": "Binance Coin"
+  },
+  {
+    "symbol": "SUN",
+    "ko": "썬",
+    "en": "Sun"
   }
 ]
