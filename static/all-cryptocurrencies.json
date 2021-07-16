@@ -993,5 +993,70 @@
     "symbol": "BAND",
     "ko": "밴드 프로토콜",
     "en": "Band Protocol"
+  },
+  {
+    "symbol": "BOND",
+    "ko": "반브리지",
+    "en": "BarnBridge"
+  },
+  {
+    "symbol": "ZEC",
+    "ko": "지캐시",
+    "en": "Zcash"
+  },
+  {
+    "symbol": "FORTH",
+    "ko": "앰플포스거버넌스토큰",
+    "en": "Ampleforth Governance Token"
+  },
+  {
+    "symbol": "NKN",
+    "ko": "엔케이엔",
+    "en": "NKN"
+  },
+  {
+    "symbol": "MLN",
+    "ko": "엔자임",
+    "en": "Enzyme"
+  },
+  {
+    "symbol": "SKL",
+    "ko": "스케일 네트워크",
+    "en": "SKALE Network"
+  },
+  {
+    "symbol": "WBTC",
+    "ko": "랩드비트코인",
+    "en": "Wrapped Bitcoin"
+  },
+  {
+    "symbol": "SOL",
+    "ko": "솔라나",
+    "en": "Solana"
+  },
+  {
+    "symbol": "KEEP",
+    "ko": "킵 네트워크",
+    "en": "Keep Network"
+  },
+  {
+    "symbol": "DASH",
+    "ko": "대시",
+    "en": "Dash"
+  },
+  {
+    "symbol": "TRB",
+    "ko": "텔러",
+    "en": "Tellor"
+  },
+  {
+    "symbol": "GTC",
+    "ko": "깃코인",
+    "en": "Gitcoin"
+  },
+  {
+    "symbol": "ICP",
+    "ko": "인터넷 컴퓨터",
+    "en": "Internet Computer"
   }
 ]
