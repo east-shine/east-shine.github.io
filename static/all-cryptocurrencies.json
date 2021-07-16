@@ -908,5 +908,90 @@
     "symbol": "SUN",
     "ko": "썬",
     "en": "Sun"
+  },
+  {
+    "symbol": "LIT",
+    "ko": "릿엔트리",
+    "en": "Litentry"
+  },
+  {
+    "symbol": "TVK",
+    "ko": "테라 버추어",
+    "en": "Terra Virtua Kolect"
+  },
+  {
+    "symbol": "1INCH",
+    "ko": "1인치",
+    "en": "1inch"
+  },
+  {
+    "symbol": "AVAX",
+    "ko": "아발란체",
+    "en": "Avalanche"
+  },
+  {
+    "symbol": "ALPHA",
+    "ko": "알파 파이낸스 랩",
+    "en": "Alpha Finance Lab"
+  },
+  {
+    "symbol": "DIA",
+    "ko": "디아",
+    "en": "DIA"
+  },
+  {
+    "symbol": "FTT",
+    "ko": "에프티엑스 토큰",
+    "en": "FTX Token"
+  },
+  {
+    "symbol": "BZRX",
+    "ko": "비지엑스 프로토콜",
+    "en": "bZx Protocol"
+  },
+  {
+    "symbol": "DODO",
+    "ko": "도도",
+    "en": "DODO"
+  },
+  {
+    "symbol": "FET",
+    "ko": "페치",
+    "en": "Fetch.ai"
+  },
+  {
+    "symbol": "DATA",
+    "ko": "스트리머",
+    "en": "Streamr"
+  },
+  {
+    "symbol": "FIS",
+    "ko": "스타파이",
+    "en": "Stafi"
+  },
+  {
+    "symbol": "PHA",
+    "ko": "팔라 네트워크",
+    "en": "Phala Network"
+  },
+  {
+    "symbol": "FRONT",
+    "ko": "프론티어",
+    "en": "Frontier"
+  },
+  {
+    "symbol": "HARD",
+    "ko": "하드 프로토콜",
+    "en": "HARD Protocol"
+  },
+  {
+    "symbol": "HOT",
+    "ko": "홀로",
+    "en": "Holo"
+  },
+  {
+    "symbol": "BAND",
+    "ko": "밴드 프로토콜",
+    "en": "Band Protocol"
   }
 ]
