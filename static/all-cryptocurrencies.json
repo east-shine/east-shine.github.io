@@ -1243,5 +1243,166 @@
     "symbol": "ZEN",
     "ko": "호라이즌",
     "en": "Horizen"
+  },
+  {
+    "symbol": "TRUE",
+    "ko": "트루체인",
+    "en": "TrueChain"
+  },
+  {
+    "symbol": "TMTG",
+    "ko": "더마이다스터치골드",
+    "en": "The Midas Touch Gold"
+  },
+  {
+    "symbol": "MXC",
+    "ko": "머신익스체인지코인",
+    "en": "MXC"
+  },
+  {
+    "symbol": "VSYS",
+    "ko": "브이시스템즈",
+    "en": "v.systems"
+  },
+  {
+    "symbol": "CVT",
+    "ko": "사이버베인",
+    "en": "CyberVein"
+  },
+  {
+    "symbol": "ANW",
+    "ko": "앵커뉴럴월드",
+    "en": "Anchor Neural World"
+  },
+  {
+    "symbol": "APM",
+    "ko": "에이피엠 코인",
+    "en": "apM Coin"
+  },
+  {
+    "symbol": "VRA",
+    "ko": "베라시티",
+    "en": "Verasity"
+  },
+  {
+    "symbol": "XPR",
+    "ko": "프로톤",
+    "en": "Proton"
+  },
+  {
+    "symbol": "APIX",
+    "ko": "아픽스",
+    "en": "APIX"
+  },
+  {
+    "symbol": "EM",
+    "ko": "이마이너",
+    "en": "Eminer"
+  },
+  {
+    "symbol": "RLY",
+    "ko": "랠리",
+    "en": "Rally"
+  },
+  {
+    "symbol": "AMO",
+    "ko": "아모코인",
+    "en": "AMO Coin"
+  },
+  {
+    "symbol": "FLETA",
+    "ko": "플레타",
+    "en": "FLETA"
+  },
+  {
+    "symbol": "EGG",
+    "ko": "네스트리",
+    "en": "Nestree"
+  },
+  {
+    "symbol": "GOM2",
+    "ko": "고머니2",
+    "en": "AnimalGo"
+  },
+  {
+    "symbol": "ORC",
+    "ko": "Orbit Chain",
+    "en": "오르빗체인"
+  },
+  {
+    "symbol": "DVI",
+    "ko": "디비전",
+    "en": "Dvision Network"
+  },
+  {
+    "symbol": "MVC",
+    "ko": "마일벌스",
+    "en": "MileVerse"
+  },
+  {
+    "symbol": "MVC",
+    "ko": "마일벌스",
+    "en": "MileVerse"
+  },
+  {
+    "symbol": "BIOT",
+    "ko": "바이오패스포트",
+    "en": "BioPassport Token"
+  },
+  {
+    "symbol": "MAP",
+    "ko": "맵프로토콜",
+    "en": "MAP Protocol"
+  },
+  {
+    "symbol": "WIKEN",
+    "ko": "위드",
+    "en": "Project WITH"
+  },
+  {
+    "symbol": "ASM",
+    "ko": "어셈블프로토콜",
+    "en": "Assemble Protocol"
+  },
+  {
+    "symbol": "MSB",
+    "ko": "미스블록",
+    "en": "Misbloc"
+  },
+  {
+    "symbol": "IPX",
+    "ko": "타키온프로토콜",
+    "en": "Tachyon Protocol"
+  },
+  {
+    "symbol": "TEMCO",
+    "ko": "템코",
+    "en": "TEMCO"
+  },
+  {
+    "symbol": "HIBS",
+    "ko": "힙스",
+    "en": "Hiblocks"
+  },
+  {
+    "symbol": "UOS",
+    "ko": "울트라",
+    "en": "Ultra"
+  },
+  {
+    "symbol": "DRM",
+    "ko": "두드림체인",
+    "en": "DoDreamChain",
+    "exchanges": ["BITHUMB", "COINONE"]
+  },
+  {
+    "symbol": "IBP",
+    "ko": "아이비피 토큰",
+    "en": "Innovation Blockchain Payment"
+  },
+  {
+    "symbol": "ASTA",
+    "ko": "아스타",
+    "en": "ASTA"
   }
 ]
