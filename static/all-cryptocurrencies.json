@@ -1404,5 +1404,21 @@
     "symbol": "ASTA",
     "ko": "아스타",
     "en": "ASTA"
+  },
+  {
+    "symbol": "ANC",
+    "ko": "앵커프로토콜",
+    "en": "Anchor Protocol",
+    "exchanges": ["COINONE", "OKEX"]
+  },
+  {
+    "symbol": "LMCH",
+    "ko": "라탐캐시",
+    "en": "Latamcash"
+  },
+  {
+    "symbol": "EXE",
+    "ko": "8X8 프로토콜",
+    "en": "8X8 PROTOCOL"
   }
 ]
