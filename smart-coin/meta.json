@@ -1,6 +1,9 @@
 {
     "version": {
         "app": "1.0.0",
-        "resource": "1.0.0"
-    }
+        "resource": "1.0.2"
+    },
+    "majorCoins": [
+        "BTC", "ETH", "ADA", "XRP", "DOGE", "DOT", "UNI", "BCH", "LTC", "LINK", "XLM", "EOS", "TRX", "BSV", "ETC"
+    ]
 }
