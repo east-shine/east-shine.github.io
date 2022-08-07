@@ -50,7 +50,10 @@ Link: [Google](https://google.com)
 - __double underscores__
 - ~~cancelline~~
 
-<img src="https://play-lh.googleusercontent.com/aFWiT2lTa9CYBpyPjfgfNHd0r5puwKRGj2rHpdPTNrz2N9LXgN_MbLjePd1OTc0E8Rl1" width="300px" height="300px"></img>
+![google_logo](https://play-lh.googleusercontent.com/aFWiT2lTa9CYBpyPjfgfNHd0r5puwKRGj2rHpdPTNrz2N9LXgN_MbLjePd1OTc0E8Rl1)
+
+<img src="https://play-lh.googleusercontent.com/aFWiT2lTa9CYBpyPjfgfNHd0r5puwKRGj2rHpdPTNrz2N9LXgN_MbLjePd1OTc0E8Rl1" width="300px" height="300px" title="google_logo"/>
+
 
 |제목|내용|설명|
 |------|---|---|
