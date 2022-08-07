@@ -52,7 +52,7 @@ Link: [Google](https://google.com)
 
 ![google_logo](https://play-lh.googleusercontent.com/aFWiT2lTa9CYBpyPjfgfNHd0r5puwKRGj2rHpdPTNrz2N9LXgN_MbLjePd1OTc0E8Rl1)
 
-<img src="https://play-lh.googleusercontent.com/aFWiT2lTa9CYBpyPjfgfNHd0r5puwKRGj2rHpdPTNrz2N9LXgN_MbLjePd1OTc0E8Rl1" width="300px" height="300px" title="google_logo"/>
+<Img src="https://engineering.linecorp.com/wp-content/uploads/2019/08/flutter1.png" width="200px" height="200px" title="flutter_logo"/>
 
 
 |제목|내용|설명|
@@ -81,5 +81,3 @@ Link: [Google](https://google.com)
 |테스트1|*강조1*|테스트3|
 |테스트1|**강조2**|테스트3|
 |테스트1|<span style="color:red">강조3</span>|테스트3|
-
-<span style="color:blue">some *blue* text</span>.
