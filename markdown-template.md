@@ -52,7 +52,7 @@ Link: [Google](https://google.com)
 
 ![google_logo](https://play-lh.googleusercontent.com/aFWiT2lTa9CYBpyPjfgfNHd0r5puwKRGj2rHpdPTNrz2N9LXgN_MbLjePd1OTc0E8Rl1)
 
-<Img src="https://engineering.linecorp.com/wp-content/uploads/2019/08/flutter1.png" width="200px" height="200px" title="flutter_logo"/>
+<img src="https://engineering.linecorp.com/wp-content/uploads/2019/08/flutter1.png" width="200" height="200" title="flutter_logo"/>
 
 
 |제목|내용|설명|
