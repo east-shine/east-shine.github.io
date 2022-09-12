@@ -1,3 +1,4 @@
 {
-  "minAppVersion": "1.1.9"
+  "minAppVersion": "1.1.9",
+  "minAppBuildNumber": "26"
 }
