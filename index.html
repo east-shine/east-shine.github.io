@@ -1,41 +1,72 @@
-<!-- This is a static file -->
-<!-- served from your routes in server.js -->
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <title>Flutter / Sign in with Apple Integration Example</title>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="description" content="A cool thing made with Glitch" />
-    <link
-      id="favicon"
-      rel="icon"
-      href="https://glitch.com/edit/favicon-app.ico"
-      type="image/x-icon"
-    />
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Somnium Labs - 모바일 앱 개발 회사</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f7f7f7;
+  }
 
-    <!-- import the webpage's stylesheet -->
-    <link rel="stylesheet" href="/style.css" />
-  </head>
-  <body>
-    <header>
-      <h1>Flutter / Sign in with Apple Integration Example</h1>
-    </header>
+  .header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+  }
 
-    <main>
-      Visit the
-      <a href="https://pub.dev/packages/sign_in_with_apple"
-        >sign_in_with_apple plugin page</a
-      >
-      for more details.
-    </main>
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+  }
 
-    <footer>Made with <a href="https://glitch.com">Glitch</a>!</footer>
+  .hero-image {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    display: block;
+  }
 
-    <!-- include the Glitch button to show what the webpage is about and
-          to make it easier for folks to view source and remix -->
-    <div class="glitchButton" style="position:fixed;top:2em;right:20px;"></div>
-    <script src="https://button.glitch.me/button.js"></script>
-  </body>
+  .tagline {
+    margin-top: 2rem;
+    font-size: 1.5rem;
+    color: #555;
+  }
+
+  .cta-button {
+    display: inline-block;
+    padding: 1rem 2rem;
+    margin-top: 2rem;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
+
+  .cta-button:hover {
+    background-color: #0056b3;
+  }
+</style>
+</head>
+<body>
+  <div class="header">
+    <h1>Somnium Labs</h1>
+    <p>모바일 앱 개발 전문 회사</p>
+  </div>
+  
+  <div class="container">
+    <img src="hero-image.jpg" alt="모바일 앱 개발" class="hero-image">
+    <p class="tagline">혁신적인 아이디어를 현실로 만드는 모바일 앱 개발 전문 회사</p>
+    <a href="#contact" class="cta-button">문의하기</a>
+  </div>
+</body>
 </html>
